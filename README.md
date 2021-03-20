@@ -12,7 +12,7 @@ https://github.com/grassrootsjournals
 
 ⚡ Fun fact: people who think princes Diana is murdered are MORE likely to think she is still alive. 
 
-📫 How to reach me: Via my [academic homepage](https://www2.meteo.uni-bonn.de/mitarbeiter/venema/), on [Mastodon](https://fediscience.org/@VictorVenema) or on [Twitter](https://twitter.com/VariabilityBlog).
+📫 How to reach me: Via my [academic homepage](https://www2.meteo.uni-bonn.de/mitarbeiter/venema/), on [Mastodon](https://fediscience.org/@VictorVenema) or on [Twitter](https://twitter.com/Grassr_Journals/).
 
 
 <!--
